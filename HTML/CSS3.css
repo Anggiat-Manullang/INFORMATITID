@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(255, 255, 255);
+  }
+
+  p {
+    color : black;
+    border-style:solid;
+    padding : 30px 0px;
+    font-size : 30px
+  }
+
+  .topnav {
+    background-color :rgb(0, 33, 179);
+    font-size: 24px;
+    padding: 12px 160px;
+  }
+
+a {
+  text-decoration:none;
+  color:rgb(255, 255, 255);
+  padding : 0px 10px;
+}
+
+img {
+  padding: 12px 160px;
+}
+
+h2 {
+  text-align:center ;
+  font-size: 30px;
+  color:rgb(0, 96, 175)
+}
+
+video {
+   margin-left:-253px;
+}
+
